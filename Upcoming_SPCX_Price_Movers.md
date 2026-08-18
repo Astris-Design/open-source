@@ -1,6 +1,6 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
-| Tue, 8/18/26 | 7:00 PM PDT | Falcon 9 launches Starlink (17-50) mission | launch-schedule | low |
+| Tue, 8/18/26 | 8:45 PM PDT | Falcon 9 launches Starlink (17-50) mission | launch-schedule | low |
 | Thu, 8/20/26 | 8:19 AM PDT | Falcon 9 launches Starlink (10-39) mission | launch-schedule | low |
 | Sat, 8/22/26 | 12:25 AM PDT | Falcon 9 launches Starlink (15-20) mission | launch-schedule | low |
 | Wed, 12/9/26 | | S&P 500 lockup expiry | sp500-milestone | very_high |
