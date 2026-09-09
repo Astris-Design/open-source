@@ -1,5 +1,6 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
+| Tue, 9/8/26 | | Pivotal Research initiates SPCX at Buy ($220 price target) | secondary-market | very_high |
 | Tue, 9/8/26 | | JPMorgan estimates SpaceX Nasdaq-100 weight increase could drive $15.5B passive inflows | index-inclusion | very_high |
 | Wed, 9/9/26 | | SpaceX 319 million-share lockup expiry | secondary-market | high |
 | Thu, 9/10/26 | 8:37 AM PDT | Falcon 9 launches USSF-153 mission | launch-schedule | medium |
@@ -14,6 +15,7 @@
 | Mon, 9/21/26 | | Nasdaq-100 rebalance effective date (passive fund index flows) | index-inclusion | high |
 | Thu, 9/24/26 | | SpaceX 328.4 million-share lockup release | secondary-market | high |
 | Thu, 10/1/26 | | U.S. September nonfarm payrolls release | macro | high |
+| Tue, 10/6/26 | | Federal Reserve FOMC meeting minutes release | macro | medium |
 | Fri, 10/9/26 | | SpaceX 328.4 million-share secondary lockup release | secondary-market | medium |
 | Wed, 12/9/26 | | S&P 500 lockup expiry | sp500-milestone | very_high |
 | 2027-Q4 | | S&P 500 inclusion announcement window | sp500-milestone | very_high |
