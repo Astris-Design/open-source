@@ -1,13 +1,11 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
-| Thu, 9/10/26 | 8:37 AM PDT | Falcon 9 launches USSF-153 mission | launch-schedule | medium |
-| Thu, 9/10/26 | | SpaceX Rule 144 affiliate standoff release (59.1M shares) | secondary-market | high |
-| Thu, 9/10/26 | | U.S. August PPI inflation release | macro | medium |
 | Fri, 9/11/26 | | SpaceX CFO Bret Johnsen speaks at Goldman Sachs Tech Conference | secondary-market | high |
 | Fri, 9/11/26 | | U.S. August CPI inflation release | macro | high |
 | Fri, 9/11/26 | | Nasdaq-100 quarterly rebalance announcement expected | index-inclusion | very_high |
 | Sat, 9/12/26 | | xAI targets release of Grok 4.7 frontier model | xai | high |
 | Sun, 9/13/26 | 11:49 AM PDT | Falcon 9 launches O3b mPOWER-6 mission | launch-schedule | medium |
+| Tue, 9/15/26 | | xAI holds Grok Bot Galaxy developer event in San Francisco | xai | medium |
 | Tue, 9/15/26 | | SpaceX Starship Flight 14 targets first orbital insertion and Starlink V3 deployment | launch-schedule | very_high |
 | Tue, 9/15/26 | 6:00 PM PDT | Falcon 9 launches USSF-259 mission | launch-schedule | medium |
 | Wed, 9/16/26 | | Federal Reserve FOMC interest rate decision | macro | very_high |
