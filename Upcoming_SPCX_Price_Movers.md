@@ -1,6 +1,8 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
+| Thu, 9/17/26 | | NASA awards SpaceX launch service contract for StarBurst space telescope | gov-contracts | medium |
 | Thu, 9/17/26 | | FCC grants SpaceX Section 214 authority for Starlink Mobile international service | regulatory | high |
+| Fri, 9/18/26 | | NASA awards SpaceX $946 million contract for 3 additional Crew Dragon flights | gov-contracts | high |
 | Fri, 9/18/26 | 1:00 PM PDT | Nasdaq-100 rebalance closing cross (SpaceX weight rises to 2.82%) | index-inclusion | very_high |
 | Fri, 9/18/26 | | SpaceX SPCX 59 million-share insider unlock reported | secondary-market | medium |
 | Mon, 9/21/26 | | Nasdaq-100 rebalance effective date (passive fund index flows) | index-inclusion | very_high |
