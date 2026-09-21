@@ -1,8 +1,11 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
+| Sun, 9/20/26 | | Elon Musk forecasts Starlink capturing majority of global internet traffic within 10 years | starlink | very_high |
 | Mon, 9/21/26 | | xAI releases Grok 4.7 frontier coding and knowledge model | xai | high |
 | Mon, 9/21/26 | | Nasdaq-100 rebalance effective date (SpaceX weight increases to 2.82%) | index-inclusion | very_high |
+| Tue, 9/22/26 | | Federal Reserve Vice Chair Philip Jefferson speech on monetary policy | macro | medium |
 | Thu, 9/24/26 | | SpaceX 328.4 million-share lockup release | secondary-market | high |
+| Thu, 9/24/26 | | Federal Reserve Bank of New York President John Williams speech | macro | medium |
 | Sat, 9/26/26 | 4:56 AM PDT | SpaceX Falcon 9 launches USSF-385 (R-3) under NSSL Phase 3 Lane 1 | launch-schedule | medium |
 | Mon, 9/28/26 | 5:15 AM PDT | SpaceX Starship Flight 14 targets first orbital insertion and Starlink V3 deployment | launch-schedule | very_high |
 | Wed, 9/30/26 | | FCC votes on proposal to open 1,000+ MHz for space-based wireless service | regulatory | high |
