@@ -1,8 +1,6 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
-| Sun, 9/20/26 | | Elon Musk forecasts Starlink capturing majority of global internet traffic within 10 years | starlink | very_high |
-| Mon, 9/21/26 | | xAI releases Grok 4.7 frontier coding and knowledge model | xai | high |
-| Mon, 9/21/26 | | Nasdaq-100 rebalance effective date (SpaceX weight increases to 2.82%) | index-inclusion | very_high |
+| Tue, 9/22/26 | | SpaceX President Gwynne Shotwell files Form 144 to sell $52M in SPCX stock | secondary-market | high |
 | Tue, 9/22/26 | | Federal Reserve Vice Chair Philip Jefferson speech on monetary policy | macro | medium |
 | Thu, 9/24/26 | | SpaceX 328.4 million-share lockup release | secondary-market | high |
 | Thu, 9/24/26 | | Federal Reserve Bank of New York President John Williams speech | macro | medium |
