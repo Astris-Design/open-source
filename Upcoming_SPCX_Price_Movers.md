@@ -1,14 +1,12 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
-| Tue, 9/22/26 | | SpaceX President Gwynne Shotwell files Form 144 to sell $52M in SPCX stock | secondary-market | high |
-| Tue, 9/22/26 | | FAA opens mishap investigation after SpaceX Starship booster failure | regulatory | high |
-| Tue, 9/22/26 | | Federal Reserve Vice Chair Philip Jefferson speech on monetary policy | macro | medium |
 | Thu, 9/24/26 | | SpaceX 328.4 million-share lockup release | secondary-market | high |
 | Thu, 9/24/26 | | Federal Reserve Bank of New York President John Williams speech | macro | medium |
 | Sat, 9/26/26 | 4:56 AM PDT | SpaceX Falcon 9 launches USSF-385 (R-3) under NSSL Phase 3 Lane 1 | launch-schedule | medium |
 | Mon, 9/28/26 | 5:15 AM PDT | SpaceX Starship Flight 14 targets first orbital insertion and Starlink V3 deployment | launch-schedule | very_high |
 | Wed, 9/30/26 | | FCC votes on proposal to open 1,000+ MHz for space-based wireless service | regulatory | high |
 | Thu, 10/1/26 | 8:10 AM PDT | SpaceX Falcon 9 launches NASA Crew-13 mission to ISS | launch-schedule | medium |
+| Thu, 10/1/26 | | SpaceX Falcon Heavy launches NROL-97 national security mission | launch-schedule | medium |
 | Fri, 10/2/26 | | U.S. September nonfarm payrolls release | macro | very_high |
 | Wed, 10/7/26 | | Federal Reserve FOMC meeting minutes release | macro | medium |
 | Fri, 10/9/26 | | SpaceX 328.4 million-share secondary lockup release | secondary-market | high |
