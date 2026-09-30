@@ -1,13 +1,11 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
-| Mon, 9/28/26 | 5:15 AM PDT | SpaceX Starship Flight 14 targets first orbital insertion and Starlink V3 deployment | launch-schedule | very_high |
-| Mon, 9/28/26 | | CLSA initiates SpaceX coverage at Outperform with $250 price target | secondary-market | high |
-| Mon, 9/28/26 | | xAI launches Team Bots and expands Grok 4.7 distribution to AWS Bedrock | xai | medium |
 | Tue, 9/29/26 | | Federal Reserve Vice Chair Michelle Bowman speaks at Sibos 2026 | macro | medium |
+| Tue, 9/29/26 | | TD Cowen initiates SPCX coverage with Buy rating and $200 price target | secondary-market | medium |
 | Wed, 9/30/26 | | FCC votes on proposal to open 1,000+ MHz for space-based wireless service | regulatory | high |
 | Thu, 10/1/26 | 8:10 AM PDT | SpaceX Falcon 9 launches NASA Crew-13 mission to ISS | launch-schedule | medium |
 | Thu, 10/1/26 | 11:18 AM PDT | SpaceX Falcon 9 launches Transporter-18 rideshare mission | launch-schedule | medium |
-| Thu, 10/1/26 | | SpaceX Falcon Heavy launches NROL-97 national security mission | launch-schedule | medium |
+| Thu, 10/1/26 | 8:53 PM PDT | SpaceX Falcon Heavy launches NROL-97 national security mission | launch-schedule | medium |
 | Thu, 10/1/26 | | Federal Reserve Governor Christopher Waller speaks at St. Louis Fed | macro | high |
 | Fri, 10/2/26 | | U.S. September nonfarm payrolls release | macro | very_high |
 | Mon, 10/5/26 | | SpaceX Falcon 9 launches SDA Tranche 1 Transport Layer A mission | launch-schedule | medium |
@@ -17,6 +15,7 @@
 | Wed, 10/14/26 | | U.S. September PPI inflation release | macro | high |
 | Thu, 10/15/26 | | U.S. September retail sales release | macro | high |
 | Mon, 10/19/26 | | SpaceX Starship Flight 15 NET target | launch-schedule | medium |
+| Thu, 10/22/26 | | FAA schedules public meeting on Blue Origin request for 50 New Glenn launches per year | regulatory | medium |
 | Sat, 10/24/26 | | SpaceX 328.4 million-share secondary lockup release | secondary-market | high |
 | Tue, 10/27/26 | | Federal Reserve FOMC interest rate decision | macro | very_high |
 | Thu, 10/29/26 | | U.S. September PCE inflation release | macro | high |
