@@ -1,12 +1,8 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
-| Thu, 10/1/26 | 8:10 AM PDT | SpaceX Falcon 9 launches NASA Crew-13 mission to ISS | launch-schedule | medium |
-| Thu, 10/1/26 | 11:18 AM PDT | SpaceX Falcon 9 launches Transporter-18 rideshare mission | launch-schedule | medium |
-| Thu, 10/1/26 | 8:53 PM PDT | SpaceX Falcon Heavy launches NROL-97 mission under $13.7B NSSL Lane 2 contract | launch-schedule | high |
-| Thu, 10/1/26 | | Federal Reserve Governor Christopher Waller speaks at St. Louis Fed | macro | high |
-| Fri, 10/2/26 | | U.S. September nonfarm payrolls release | macro | very_high |
 | Mon, 10/5/26 | | SpaceX Falcon 9 launches SDA Tranche 1 Transport Layer A mission | launch-schedule | medium |
 | Wed, 10/7/26 | | Federal Reserve FOMC meeting minutes release | macro | medium |
+| Thu, 10/8/26 | | Fed Governor Christopher Waller speaks on economic outlook | macro | high |
 | Fri, 10/9/26 | | SpaceX 328.4 million-share secondary lockup release | secondary-market | high |
 | Sat, 10/10/26 | | SpaceX Falcon 9 launches Starlink Group 15-25 mission | launch-schedule | medium |
 | Tue, 10/13/26 | | SpaceX Falcon 9 launches NASA CRS SpX-35 ISS resupply mission | launch-schedule | medium |
@@ -18,6 +14,7 @@
 | Mon, 10/19/26 | | SpaceX Starship Flight 15 NET target | launch-schedule | high |
 | Thu, 10/22/26 | | FAA schedules public meeting on Blue Origin request for 50 New Glenn launches per year | regulatory | medium |
 | Sat, 10/24/26 | | SpaceX 328.4 million-share secondary lockup release | secondary-market | high |
+| Tue, 10/27/26 | | Federal Reserve FOMC October meeting begins | macro | very_high |
 | Wed, 10/28/26 | | Federal Reserve FOMC interest rate decision | macro | very_high |
 | Thu, 10/29/26 | | U.S. September PCE inflation release | macro | high |
 | Fri, 10/30/26 | | SpaceX Starship Flight 16 at KSC 39A NET target | launch-schedule | high |
