@@ -3,6 +3,7 @@
 | Tue, 10/6/26 | | FCC approves SpaceX 15,000 direct-to-device satellite constellation | starlink | very_high |
 | Wed, 10/7/26 | | Federal Reserve FOMC meeting minutes release | macro | medium |
 | Thu, 10/8/26 | | Fed Governor Christopher Waller speaks on economic outlook | macro | high |
+| Thu, 10/8/26 | | SpaceX Falcon 9 launches SDA Tranche 1 Transport Layer A mission | launch-schedule | medium |
 | Fri, 10/9/26 | | SpaceX 328.4 million-share secondary lockup release | secondary-market | high |
 | Sat, 10/10/26 | | SpaceX Falcon 9 launches Starlink Group 15-25 mission | launch-schedule | medium |
 | Tue, 10/13/26 | | SpaceX Falcon 9 launches NASA CRS SpX-35 ISS resupply mission | launch-schedule | medium |
@@ -17,6 +18,7 @@
 | Sat, 10/24/26 | | SpaceX 328.4 million-share secondary lockup release | secondary-market | high |
 | Tue, 10/27/26 | | Federal Reserve FOMC October meeting begins | macro | very_high |
 | Wed, 10/28/26 | | Federal Reserve FOMC interest rate decision | macro | very_high |
+| Thu, 10/29/26 | | FCC votes on 25 MHz direct-to-device spectrum auction | regulatory | high |
 | Thu, 10/29/26 | | U.S. September PCE inflation release | macro | high |
 | Fri, 10/30/26 | | SpaceX Starship Flight 16 at KSC 39A NET target | launch-schedule | high |
 | Mon, 11/2/26 | | SpaceX Falcon 9 launches Bandwagon-4 rideshare mission | launch-schedule | medium |
