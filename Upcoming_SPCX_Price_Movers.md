@@ -6,6 +6,7 @@
 | Wed, 10/14/26 | | BLS releases U.S. September CPI inflation report | macro | very_high |
 | Wed, 10/14/26 | | FAA deadline for public comments on SpaceX 76-launch Starship review | regulatory | high |
 | Wed, 10/14/26 | | U.S. September PPI inflation release | macro | high |
+| Thu, 10/15/26 | 8:30 AM PDT | Fed Chair Kevin Warsh speaks | macro | medium |
 | Thu, 10/15/26 | 4:44 PM PDT | SpaceX Falcon 9 launches USSF-481 mission | launch-schedule | medium |
 | Thu, 10/15/26 | | Tesla next-generation Roadster reveal | industry | medium |
 | Thu, 10/15/26 | | U.S. September retail sales release | macro | high |
@@ -27,6 +28,8 @@
 | Fri, 11/6/26 | | U.S. October nonfarm payrolls release | macro | high |
 | Tue, 11/10/26 | | BLS releases U.S. October CPI inflation report | macro | high |
 | Fri, 11/13/26 | | BLS releases U.S. October PPI inflation report | macro | medium |
+| Tue, 11/17/26 | | U.S. October retail sales release | macro | medium |
+| Wed, 11/18/26 | | FOMC releases minutes from October 27-28 meeting | macro | high |
 | Wed, 12/9/26 | | S&P 500 lockup expiry | sp500-milestone | very_high |
 | 2027-Q4 | | S&P 500 inclusion announcement window | sp500-milestone | very_high |
 | 2028-Q2 | | S&P 500 effective inclusion date | sp500-milestone | very_high |
