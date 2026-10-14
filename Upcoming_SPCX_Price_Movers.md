@@ -1,7 +1,7 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
-| Mon, 10/12/26 | | SpaceX Falcon 9 launches Starlink Group 15-25 mission | launch-schedule | medium |
 | Tue, 10/13/26 | 3:33 AM PDT | SpaceX Falcon 9 launches NASA CRS SpX-35 ISS resupply mission | launch-schedule | medium |
+| Tue, 10/13/26 | | FAA begins environmental review of SpaceX plan for up to 456 annual Starship launches | regulatory | high |
 | Tue, 10/13/26 | | Fed Governor Christopher Waller speaks at Bloomberg New Economy Forum | macro | high |
 | Wed, 10/14/26 | | BLS releases U.S. September CPI inflation report | macro | very_high |
 | Wed, 10/14/26 | | FAA deadline for public comments on SpaceX 76-launch Starship review | regulatory | high |
@@ -11,7 +11,9 @@
 | Thu, 10/15/26 | | Tesla next-generation Roadster reveal | industry | medium |
 | Thu, 10/15/26 | | U.S. September retail sales release | macro | high |
 | Fri, 10/16/26 | | Fed Chair Jerome Powell speaks at IMF Annual Meeting fireside chat | macro | high |
+| Mon, 10/19/26 | | SpaceX Falcon 9 launches Bandwagon-5 rideshare mission | launch-schedule | medium |
 | Mon, 10/19/26 | | SpaceX Starship Flight 15 NET target | launch-schedule | high |
+| Tue, 10/20/26 | 3:14 PM PDT | SpaceX Falcon 9 launches Starlink Group 15-15 | launch-schedule | medium |
 | Wed, 10/21/26 | | Tesla Q3 earnings release | industry | medium |
 | Thu, 10/22/26 | | FAA public meeting on SpaceX Starship Cape Canaveral SLC-37 environmental review | regulatory | medium |
 | Thu, 10/22/26 | | FAA public meeting on Blue Origin request for 50 New Glenn launches per year | regulatory | medium |
@@ -20,6 +22,7 @@
 | Wed, 10/28/26 | | Federal Reserve FOMC interest rate decision | macro | very_high |
 | Thu, 10/29/26 | | FCC votes on 482 MHz supplemental-coverage spectrum proposal | regulatory | high |
 | Thu, 10/29/26 | | U.S. September PCE inflation release | macro | high |
+| Fri, 10/30/26 | | FAA target to complete Starship launch-license safety review | regulatory | high |
 | Fri, 10/30/26 | | SpaceX Starship Flight 16 at KSC 39A NET target | launch-schedule | high |
 | Fri, 10/30/26 | | NHTSA deadline for Tesla Cybercab certification response | regulatory | medium |
 | Mon, 11/2/26 | | SpaceX Falcon 9 launches Bandwagon-4 rideshare mission | launch-schedule | medium |
@@ -28,6 +31,7 @@
 | Fri, 11/6/26 | | U.S. October nonfarm payrolls release | macro | high |
 | Tue, 11/10/26 | | BLS releases U.S. October CPI inflation report | macro | high |
 | Fri, 11/13/26 | | BLS releases U.S. October PPI inflation report | macro | medium |
+| Tue, 11/17/26 | | FAA public meeting in Brownsville on SpaceX Starship 456-launch expansion | regulatory | medium |
 | Tue, 11/17/26 | | U.S. October retail sales release | macro | medium |
 | Wed, 11/18/26 | | FOMC releases minutes from October 27-28 meeting | macro | high |
 | Wed, 12/9/26 | | S&P 500 lockup expiry | sp500-milestone | very_high |
