@@ -1,9 +1,15 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
 | Tue, 10/13/26 | 3:33 AM PDT | SpaceX Falcon 9 launches NASA CRS SpX-35 ISS resupply mission | launch-schedule | medium |
+| Tue, 10/13/26 | | NASA awards SpaceX potential $843 million ISS deorbit-vehicle contract | gov-contracts | high |
+| Tue, 10/13/26 | | FAA closes Starship mishap investigation after setting 63 corrective actions | regulatory | high |
 | Tue, 10/13/26 | | FAA begins environmental review of SpaceX plan for up to 456 annual Starship launches | regulatory | high |
 | Tue, 10/13/26 | | Fed Governor Christopher Waller speaks at Bloomberg New Economy Forum | macro | high |
+| Wed, 10/14/26 | | SpaceX reportedly seeks $40 billion debt financing for Nvidia AI chips | secondary-market | very_high |
 | Wed, 10/14/26 | | BLS releases U.S. September CPI inflation report | macro | very_high |
+| Wed, 10/14/26 | | Rocket Lab delays Neutron maiden launch to 2027 | industry | high |
+| Wed, 10/14/26 | | Morgan Stanley reiterates SPCX at Overweight | secondary-market | medium |
+| Wed, 10/14/26 | | xAI launches Grok Voice 3.0 model | xai | medium |
 | Wed, 10/14/26 | | FAA deadline for public comments on SpaceX 76-launch Starship review | regulatory | high |
 | Wed, 10/14/26 | | U.S. September PPI inflation release | macro | high |
 | Thu, 10/15/26 | 8:30 AM PDT | Fed Chair Kevin Warsh speaks | macro | medium |
@@ -15,6 +21,7 @@
 | Mon, 10/19/26 | | SpaceX Starship Flight 15 NET target | launch-schedule | high |
 | Tue, 10/20/26 | 3:14 PM PDT | SpaceX Falcon 9 launches Starlink Group 15-15 | launch-schedule | medium |
 | Wed, 10/21/26 | | Tesla Q3 earnings release | industry | medium |
+| Wed, 10/21/26 | | Rocket Lab launches Electron HawkEye 360 mission | industry | low |
 | Thu, 10/22/26 | | FAA public meeting on SpaceX Starship Cape Canaveral SLC-37 environmental review | regulatory | medium |
 | Thu, 10/22/26 | | FAA public meeting on Blue Origin request for 50 New Glenn launches per year | regulatory | medium |
 | Sat, 10/24/26 | | SpaceX 328.4 million-share secondary lockup release | secondary-market | high |
