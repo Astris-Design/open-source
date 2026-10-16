@@ -2,11 +2,13 @@
 | --- | --- | --- | --- | --- |
 | Thu, 10/15/26 | 8:30 AM PDT | Fed Chair Kevin Warsh speaks | macro | medium |
 | Thu, 10/15/26 | 4:44 PM PDT | SpaceX Falcon 9 launches USSF-481 mission | launch-schedule | medium |
+| Thu, 10/15/26 | | Elon Musk projects SpaceX valuation could exceed $100 trillion | secondary-market | high |
 | Thu, 10/15/26 | | Goldman Sachs sets $230 SPCX price target on orbital AI compute thesis | secondary-market | very_high |
 | Thu, 10/15/26 | | Barclays initiates SPCX coverage with $254 price target | secondary-market | high |
 | Thu, 10/15/26 | | Tesla next-generation Roadster reveal | industry | medium |
 | Thu, 10/15/26 | | U.S. September retail sales release | macro | high |
 | Fri, 10/16/26 | | Evercore ISI raises SPCX price target to $275 from $230 | secondary-market | high |
+| Fri, 10/16/26 | | Elon Musk states Starshield deployment rules are set by U.S. military | gov-contracts | high |
 | Fri, 10/16/26 | | Activest Wealth Management increases SPCX position by 3,239% | secondary-market | high |
 | Fri, 10/16/26 | | Fed Chair Jerome Powell speaks at IMF Annual Meeting fireside chat | macro | high |
 | Mon, 10/19/26 | | SpaceX Falcon 9 launches Bandwagon-5 rideshare mission | launch-schedule | medium |
