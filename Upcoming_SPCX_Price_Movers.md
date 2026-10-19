@@ -1,5 +1,8 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
+| Sun, 10/18/26 | | SteelPeak Wealth Q3 filing reveals $22.6M SPCX position increase | secondary-market | high |
+| Mon, 10/19/26 | | Rocket Lab delays Neutron maiden launch to 2027 | industry | high |
+| Mon, 10/19/26 | | Bernstein maintains Buy rating on SPCX with $248 price target | secondary-market | medium |
 | Mon, 10/19/26 | | Elon Musk pledges one SpaceX share to every U.S. child | secondary-market | high |
 | Mon, 10/19/26 | | SpaceX Falcon 9 launches Bandwagon-5 rideshare mission | launch-schedule | medium |
 | Mon, 10/19/26 | | SpaceX Starship Flight 15 NET target | launch-schedule | high |
