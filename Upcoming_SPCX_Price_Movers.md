@@ -1,11 +1,7 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
-| Sun, 10/18/26 | | SteelPeak Wealth Q3 filing reveals $22.6M SPCX position increase | secondary-market | high |
-| Mon, 10/19/26 | | Rocket Lab delays Neutron maiden launch to 2027 | industry | high |
-| Mon, 10/19/26 | | Bernstein maintains Buy rating on SPCX with $248 price target | secondary-market | medium |
-| Mon, 10/19/26 | | Elon Musk pledges one SpaceX share to every U.S. child | secondary-market | high |
-| Mon, 10/19/26 | | SpaceX Falcon 9 launches Bandwagon-5 rideshare mission | launch-schedule | medium |
-| Mon, 10/19/26 | | SpaceX Starship Flight 15 NET target | launch-schedule | high |
+| Tue, 10/20/26 | | SpaceX reports Q3 results ($14.6B revenue, $4.4B profit) and confirms Tesla merger talks | secondary-market | very_high |
+| Tue, 10/20/26 | | NASA awards SpaceX $946 million contract modification for Crew-15 through Crew-17 | gov-contracts | high |
 | Tue, 10/20/26 | 3:14 PM PDT | SpaceX Falcon 9 launches Starlink Group 15-15 | launch-schedule | medium |
 | Wed, 10/21/26 | | Tesla Q3 earnings release | industry | medium |
 | Wed, 10/21/26 | | Rocket Lab launches Electron HawkEye 360 mission | industry | low |
@@ -19,8 +15,8 @@
 | Thu, 10/29/26 | | FCC votes on 482 MHz supplemental-coverage spectrum proposal | regulatory | high |
 | Thu, 10/29/26 | | U.S. September PCE inflation release | macro | high |
 | Fri, 10/30/26 | | FAA target to complete Starship launch-license safety review | regulatory | high |
-| Fri, 10/30/26 | | SpaceX Starship Flight 16 at KSC 39A NET target | launch-schedule | high |
 | Fri, 10/30/26 | | NHTSA deadline for Tesla Cybercab certification response | regulatory | medium |
+| Sun, 11/1/26 | | SpaceX NET target for Starship Flight 15 featuring dual tower-catch attempt | launch-schedule | very_high |
 | Mon, 11/2/26 | | SpaceX Falcon 9 launches Bandwagon-4 rideshare mission | launch-schedule | medium |
 | Wed, 11/4/26 | | Rocket Lab launches iQPS Electron mission | industry | low |
 | Wed, 11/4/26 | | Federal Reserve federal funds rate decision | macro | very_high |
@@ -33,6 +29,7 @@
 | Tue, 11/17/26 | | U.S. October retail sales release | macro | medium |
 | Wed, 11/18/26 | | FOMC releases minutes from October 27-28 meeting | macro | high |
 | Mon, 11/30/26 | | FAA public comment deadline for SpaceX 456-launch Starbase expansion | regulatory | medium |
+| Tue, 12/1/26 | | SpaceX NET target for Starship Flight 16 maiden launch from KSC LC-39A | launch-schedule | very_high |
 | Wed, 12/9/26 | | S&P 500 lockup expiry | sp500-milestone | very_high |
 | 2027-Q4 | | S&P 500 inclusion announcement window | sp500-milestone | very_high |
 | 2028-Q2 | | S&P 500 effective inclusion date | sp500-milestone | very_high |
