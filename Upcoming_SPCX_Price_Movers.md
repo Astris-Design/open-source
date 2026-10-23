@@ -5,12 +5,15 @@
 | Thu, 10/22/26 | | FAA public meeting on Blue Origin request for 50 New Glenn launches per year | regulatory | medium |
 | Thu, 10/22/26 | | SpaceXSI introduces SpaceX Super Intelligence Partner Network | xai | medium |
 | Fri, 10/23/26 | | Phillip Securities upgrades SPCX to Buy with $250 price target | secondary-market | very_high |
+| Fri, 10/23/26 | | SpaceX structures $40 billion debt offering at 7.75%-8.30% yields | secondary-market | very_high |
+| Fri, 10/23/26 | | Starlink Q3 revenue jumps 69% to $5.2B with 1.6M net subscriber additions | starlink | very_high |
 | Sat, 10/24/26 | | SpaceX 328.4 million-share secondary lockup release | secondary-market | high |
 | Sun, 10/25/26 | | SpaceX launches Falcon 9 Starlink 15-16 mission | launch-schedule | medium |
 | Mon, 10/26/26 | | SpaceX early-release insider lockup (~319 million shares) | secondary-market | high |
 | Tue, 10/27/26 | | Federal Reserve FOMC October meeting begins | macro | very_high |
 | Wed, 10/28/26 | | Federal Reserve FOMC interest rate decision | macro | very_high |
 | Wed, 10/28/26 | | SpaceX launches Falcon 9 Starlink 15-18 mission | launch-schedule | medium |
+| Thu, 10/29/26 | | ULA launches Amazon Leo LV-01 maiden Kuiper mission on Vulcan | launch-schedule | high |
 | Thu, 10/29/26 | | FCC votes on 482 MHz supplemental-coverage spectrum proposal | regulatory | high |
 | Thu, 10/29/26 | | U.S. September PCE inflation release | macro | high |
 | Fri, 10/30/26 | | FAA target to complete Starship launch-license safety review | regulatory | high |
@@ -32,6 +35,7 @@
 | Wed, 11/18/26 | | FOMC releases minutes from October 27-28 meeting | macro | high |
 | Mon, 11/30/26 | | FAA public comment deadline for SpaceX 456-launch Starbase expansion | regulatory | medium |
 | Tue, 12/1/26 | | SpaceX NET target for Starship Flight 16 maiden launch from KSC LC-39A | launch-schedule | very_high |
+| Tue, 12/1/26 | | JPMorgan projects $14B-$15B Russell index reconstitution inflows for SpaceX | secondary-market | very_high |
 | Fri, 12/4/26 | | BLS releases U.S. November nonfarm payrolls report | macro | high |
 | Wed, 12/9/26 | | S&P 500 lockup expiry | sp500-milestone | very_high |
 | 2027-Q4 | | S&P 500 inclusion announcement window | sp500-milestone | very_high |
