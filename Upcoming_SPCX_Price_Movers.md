@@ -1,14 +1,16 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
-| Sun, 10/25/26 | | SpaceX launches Falcon 9 Starlink 15-16 mission | launch-schedule | medium |
-| Mon, 10/26/26 | | SpaceX early-release insider lockup (~319 million shares) | secondary-market | high |
+| Sun, 10/25/26 | | SpaceX closes $40B debt package for GPU AI compute expansion | secondary-market | high |
+| Sun, 10/25/26 | 9:45 PM PDT | SpaceX launches Falcon 9 Starlink 15-16 mission | launch-schedule | medium |
+| Mon, 10/26/26 | | SpaceX signs $40B Nvidia GPU lease to scale compute toward 13 GW | xai | very_high |
+| Mon, 10/26/26 | | SpaceX early-release insider lockup (~911.5M shares eligible) | secondary-market | very_high |
 | Mon, 10/26/26 | | FAA closes Starship mishap investigation with 63 corrective actions | regulatory | high |
 | Tue, 10/27/26 | | Federal Reserve FOMC October meeting begins | macro | very_high |
 | Wed, 10/28/26 | | Federal Reserve FOMC interest rate decision | macro | very_high |
-| Wed, 10/28/26 | | SpaceX launches Falcon 9 Starlink 15-18 mission | launch-schedule | medium |
 | Thu, 10/29/26 | | ULA launches Amazon Leo LV-01 maiden Kuiper mission on Vulcan | launch-schedule | high |
 | Thu, 10/29/26 | | FCC votes on 482 MHz supplemental-coverage spectrum proposal | regulatory | high |
 | Thu, 10/29/26 | | U.S. September PCE inflation release | macro | high |
+| Thu, 10/29/26 | 9:02 PM PDT | SpaceX launches Falcon 9 Starlink 15-18 mission | launch-schedule | medium |
 | Fri, 10/30/26 | | FAA target to complete Starship launch-license safety review | regulatory | high |
 | Fri, 10/30/26 | | NHTSA deadline for Tesla Cybercab certification response | regulatory | medium |
 | Sun, 11/1/26 | | Blue Origin FCC authorization window opens for New Glenn flight | industry | medium |
@@ -17,9 +19,11 @@
 | Tue, 11/3/26 | | SpaceX launches Falcon 9 Starlink 6-26 mission | launch-schedule | medium |
 | Wed, 11/4/26 | | Rocket Lab launches iQPS Electron mission | industry | low |
 | Wed, 11/4/26 | | SpaceX surety bond deadline for 15,000-satellite FCC authorization | regulatory | medium |
+| Wed, 11/4/26 | 10:14 PM PDT | SpaceX launches Falcon 9 Starlink 15-21 mission | launch-schedule | medium |
 | Thu, 11/5/26 | | SpaceX secondary lockup window (~1.3 billion shares eligible) | secondary-market | very_high |
 | Fri, 11/6/26 | | U.S. October nonfarm payrolls release | macro | high |
 | Sun, 11/8/26 | | FAA/CADENA planning target for Starship Flight 15 launch | launch-schedule | very_high |
+| Mon, 11/9/26 | | Rocket Lab reports Q3 2026 financial results | industry | medium |
 | Tue, 11/10/26 | | BLS releases U.S. October CPI inflation report | macro | high |
 | Tue, 11/10/26 | | Rocket Lab launches second iQPS Electron mission | industry | low |
 | Fri, 11/13/26 | | BLS releases U.S. October PPI inflation report | macro | medium |
