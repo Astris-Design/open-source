@@ -4,6 +4,7 @@
 | Tue, 10/27/26 | | S&P Dow Jones notes June 2027 as earliest window for SpaceX S&P 500 eligibility | sp500-milestone | medium |
 | Wed, 10/28/26 | | Federal Reserve FOMC interest rate decision | macro | very_high |
 | Wed, 10/28/26 | | Astranis upgrades Falcon 9 contract to dedicated Block 4 satellite launch | launch-schedule | medium |
+| Wed, 10/28/26 | | Louisiana residents file lawsuit challenging SpaceX spaceport tax agreement | regulatory | high |
 | Thu, 10/29/26 | | ULA launches Amazon Leo LV-01 maiden Kuiper mission on Vulcan | launch-schedule | high |
 | Thu, 10/29/26 | | FCC votes on 482 MHz supplemental-coverage spectrum proposal | regulatory | high |
 | Thu, 10/29/26 | | U.S. September PCE inflation release | macro | high |
@@ -29,6 +30,7 @@
 | Tue, 11/17/26 | | U.S. October retail sales release | macro | medium |
 | Wed, 11/18/26 | | FOMC releases minutes from October 27-28 meeting | macro | high |
 | Mon, 11/30/26 | | FAA public comment deadline for SpaceX 456-launch Starbase expansion | regulatory | medium |
+| Mon, 11/30/26 | | Nasdaq recalculates SpaceX Nasdaq-100 index weighting | secondary-market | high |
 | Tue, 12/1/26 | | SpaceX NET target for Starship Flight 16 maiden launch from KSC LC-39A | launch-schedule | very_high |
 | Tue, 12/1/26 | | JPMorgan projects $14B-$15B Russell index reconstitution inflows for SpaceX | secondary-market | very_high |
 | Fri, 12/4/26 | | BLS releases U.S. November nonfarm payrolls report | macro | high |
