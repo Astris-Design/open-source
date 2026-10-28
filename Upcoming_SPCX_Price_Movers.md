@@ -1,12 +1,9 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
-| Sun, 10/25/26 | | SpaceX closes $40B debt package for GPU AI compute expansion | secondary-market | high |
-| Sun, 10/25/26 | 9:45 PM PDT | SpaceX launches Falcon 9 Starlink 15-16 mission | launch-schedule | medium |
-| Mon, 10/26/26 | | SpaceX signs $40B Nvidia GPU lease to scale compute toward 13 GW | xai | very_high |
-| Mon, 10/26/26 | | SpaceX early-release insider lockup (~911.5M shares eligible) | secondary-market | very_high |
-| Mon, 10/26/26 | | FAA closes Starship mishap investigation with 63 corrective actions | regulatory | high |
 | Tue, 10/27/26 | | Federal Reserve FOMC October meeting begins | macro | very_high |
+| Tue, 10/27/26 | | S&P Dow Jones notes June 2027 as earliest window for SpaceX S&P 500 eligibility | sp500-milestone | medium |
 | Wed, 10/28/26 | | Federal Reserve FOMC interest rate decision | macro | very_high |
+| Wed, 10/28/26 | | Astranis upgrades Falcon 9 contract to dedicated Block 4 satellite launch | launch-schedule | medium |
 | Thu, 10/29/26 | | ULA launches Amazon Leo LV-01 maiden Kuiper mission on Vulcan | launch-schedule | high |
 | Thu, 10/29/26 | | FCC votes on 482 MHz supplemental-coverage spectrum proposal | regulatory | high |
 | Thu, 10/29/26 | | U.S. September PCE inflation release | macro | high |
@@ -15,6 +12,7 @@
 | Fri, 10/30/26 | | NHTSA deadline for Tesla Cybercab certification response | regulatory | medium |
 | Sun, 11/1/26 | | Blue Origin FCC authorization window opens for New Glenn flight | industry | medium |
 | Sun, 11/1/26 | | SpaceX NET target for Starship Flight 15 featuring dual tower-catch attempt | launch-schedule | very_high |
+| Mon, 11/2/26 | | SpaceX Falcon 9 launches USSF-432 military payload mission | gov-contracts | high |
 | Mon, 11/2/26 | | SpaceX Falcon 9 launches Bandwagon-4 rideshare mission | launch-schedule | medium |
 | Tue, 11/3/26 | | SpaceX launches Falcon 9 Starlink 6-26 mission | launch-schedule | medium |
 | Wed, 11/4/26 | | Rocket Lab launches iQPS Electron mission | industry | low |
@@ -34,6 +32,7 @@
 | Tue, 12/1/26 | | SpaceX NET target for Starship Flight 16 maiden launch from KSC LC-39A | launch-schedule | very_high |
 | Tue, 12/1/26 | | JPMorgan projects $14B-$15B Russell index reconstitution inflows for SpaceX | secondary-market | very_high |
 | Fri, 12/4/26 | | BLS releases U.S. November nonfarm payrolls report | macro | high |
+| Tue, 12/8/26 | | SpaceX final lockup expiration (up to 797.6 million shares eligible) | secondary-market | very_high |
 | Wed, 12/9/26 | | S&P 500 lockup expiry | sp500-milestone | very_high |
 | Wed, 12/9/26 | | Federal Reserve FOMC interest rate decision and economic projections | macro | very_high |
 | Thu, 12/10/26 | | BLS releases U.S. November CPI inflation report | macro | high |
