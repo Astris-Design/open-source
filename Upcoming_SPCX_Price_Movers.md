@@ -1,16 +1,18 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
 | Sun, 11/1/26 | | Mirae Asset discloses $4.22B new institutional SpaceX position | secondary-market | high |
+| Sun, 11/1/26 | | Elon Musk defends SpaceX capex efficiency following AI compute spend scrutiny | secondary-market | high |
 | Sun, 11/1/26 | | Tesla plans Cybercab robotaxi service launch in Dallas | industry | medium |
 | Sun, 11/1/26 | | Blue Origin FCC authorization window opens for New Glenn flight | industry | medium |
+| Mon, 11/2/26 | | SpaceX files final Starship mishap report for April 20 flight | regulatory | high |
 | Mon, 11/2/26 | | SpaceX in talks to access EchoStar wireless network or acquire Boost Mobile | secondary-market | high |
-| Mon, 11/2/26 | | SpaceX Falcon 9 launches USSF-432 military payload mission | gov-contracts | high |
 | Mon, 11/2/26 | | SpaceX Falcon 9 launches Bandwagon-4 rideshare mission | launch-schedule | medium |
 | Tue, 11/3/26 | | SpaceX launches Falcon 9 Starlink 6-26 mission | launch-schedule | medium |
-| Wed, 11/4/26 | | Rocket Lab launches iQPS Electron mission | industry | low |
+| Tue, 11/3/26 | | Rocket Lab launches Electron 99th mission for iQPS | industry | medium |
+| Wed, 11/4/26 | | SpaceX Falcon 9 launches USSF-432 military payload mission | gov-contracts | high |
 | Wed, 11/4/26 | | SpaceX surety bond deadline for 15,000-satellite FCC authorization | regulatory | medium |
-| Wed, 11/4/26 | 10:14 PM PDT | SpaceX launches Falcon 9 Starlink 15-21 mission | launch-schedule | medium |
 | Thu, 11/5/26 | | SpaceX secondary lockup window (~1.3B shares eligible) | secondary-market | very_high |
+| Thu, 11/5/26 | 6:21 PM PDT | SpaceX launches Falcon 9 Starlink 15-21 mission | launch-schedule | medium |
 | Fri, 11/6/26 | | U.S. October nonfarm payrolls release | macro | high |
 | Sun, 11/8/26 | | FAA planning window opens for Starship Flight 15 launch license decision | regulatory | very_high |
 | Mon, 11/9/26 | | Rocket Lab reports Q3 2026 financial results | industry | medium |
@@ -19,6 +21,7 @@
 | Thu, 11/12/26 | | SpaceX targets Starship Flight 15 launch featuring dual tower-catch attempt | launch-schedule | very_high |
 | Fri, 11/13/26 | | ULA schedules Vulcan return to flight carrying 40 Amazon Kuiper satellites | industry | high |
 | Fri, 11/13/26 | | BLS releases U.S. October PPI inflation report | macro | medium |
+| Sat, 11/14/26 | | SpaceX institutional holders Q3 Form 13F filing deadline | secondary-market | medium |
 | Tue, 11/17/26 | | FAA public meeting in Brownsville on SpaceX Starship 456-launch expansion | regulatory | medium |
 | Tue, 11/17/26 | | U.S. October retail sales release | macro | medium |
 | Wed, 11/18/26 | | Federal Reserve releases October FOMC meeting minutes | macro | high |
@@ -35,5 +38,6 @@
 | Thu, 12/10/26 | | BLS releases U.S. November CPI inflation report | macro | high |
 | Thu, 12/10/26 | | SpaceX targets Starlink 30-1 launch | launch-schedule | high |
 | Tue, 12/15/26 | | BLS releases U.S. November PPI report | macro | medium |
+| Tue, 12/15/26 | | Blue Origin targets rebuilt New Glenn pad readiness | industry | high |
 | 2027-Q4 | | S&P 500 inclusion announcement window | sp500-milestone | very_high |
 | 2028-Q2 | | S&P 500 effective inclusion date | sp500-milestone | very_high |
