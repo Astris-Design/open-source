@@ -1,10 +1,12 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
+| Tue, 11/3/26 | | SpaceX Q3 filing discloses 13.58B total shares outstanding | secondary-market | high |
 | Tue, 11/3/26 | | SpaceX launches Falcon 9 Starlink 6-26 mission | launch-schedule | medium |
 | Tue, 11/3/26 | | Rocket Lab wins $397M SDA satellite contract | industry | high |
 | Tue, 11/3/26 | | Rocket Lab launches Electron 99th mission for iQPS | industry | medium |
 | Wed, 11/4/26 | | Phillip Securities upgrades SPCX to BUY with $250 target | secondary-market | very_high |
 | Wed, 11/4/26 | | Morgan Stanley pulls forward SpaceX FCF break-even to 2031 | secondary-market | high |
+| Wed, 11/4/26 | | Elon Musk signals strategic push into orbital space data centers | xai | high |
 | Wed, 11/4/26 | | SPCX falls 6% on Democratic congressional sweep and regulatory concerns | secondary-market | high |
 | Wed, 11/4/26 | | SpaceX surety bond deadline for 15,000-satellite FCC authorization | regulatory | medium |
 | Thu, 11/5/26 | | SpaceX secondary lockup window (~1.3B shares eligible) | secondary-market | very_high |
@@ -21,10 +23,13 @@
 | Fri, 11/13/26 | | ULA schedules Vulcan return to flight carrying 40 Amazon Kuiper satellites | industry | high |
 | Fri, 11/13/26 | | BLS releases U.S. October PPI inflation report | macro | medium |
 | Sat, 11/14/26 | | SpaceX institutional holders Q3 Form 13F filing deadline | secondary-market | medium |
+| Sat, 11/14/26 | | Rocket Lab schedules 100th Electron mission launch target | industry | medium |
 | Tue, 11/17/26 | | FAA public meeting in Brownsville on SpaceX Starship 456-launch expansion | regulatory | medium |
 | Tue, 11/17/26 | | U.S. October retail sales release | macro | medium |
 | Wed, 11/18/26 | | Federal Reserve releases October FOMC meeting minutes | macro | high |
+| Thu, 11/19/26 | | FCC votes on spectrum allocation rules impacting Starlink Mobile operations | regulatory | medium |
 | Fri, 11/20/26 | | NHTSA sets compliance query deadline for Tesla Cybercab deployment | regulatory | high |
+| Sun, 11/29/26 | | NASA targets SpaceX Falcon 9 launch for CRS-25 ISS resupply mission | gov-contracts | medium |
 | Mon, 11/30/26 | | FAA public comment deadline for SpaceX 456-launch Starbase expansion | regulatory | medium |
 | Mon, 11/30/26 | | Nasdaq recalculates SpaceX Nasdaq-100 index weighting | secondary-market | high |
 | Tue, 12/1/26 | | SpaceX NET target for Starship Flight 16 maiden launch from KSC LC-39A | launch-schedule | very_high |
