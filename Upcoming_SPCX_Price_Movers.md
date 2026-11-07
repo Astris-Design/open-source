@@ -1,9 +1,14 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
-| Thu, 11/5/26 | | SpaceX secondary lockup window (~1.3B shares eligible) | secondary-market | very_high |
+| Thu, 11/5/26 | | SpaceX reports Q3 revenue of $14.58B and 13.6M Starlink subscribers | secondary-market | very_high |
+| Thu, 11/5/26 | | Qualcomm selected for Starlink Mobile nationwide 5G terrestrial rollout | starlink | high |
+| Thu, 11/5/26 | | Morgan Stanley reiterates Overweight rating and $300 target for SpaceX | secondary-market | high |
 | Thu, 11/5/26 | | China Renaissance initiates SpaceX at Buy with $194.20 price target | secondary-market | high |
+| Thu, 11/5/26 | | SpaceX secondary lockup window (~1.3B shares eligible) | secondary-market | very_high |
 | Thu, 11/5/26 | | FAA proposes streamlined commercial launch licensing framework | regulatory | high |
 | Thu, 11/5/26 | 6:21 PM PDT | SpaceX launches Falcon 9 Starlink 15-21 mission | launch-schedule | medium |
+| Fri, 11/6/26 | | Pentagon awards SpaceX $2.3B Space Data Network contract | gov-contracts | very_high |
+| Fri, 11/6/26 | | Elon Musk projects SpaceX government revenue mix to fall below 10% | gov-contracts | very_high |
 | Fri, 11/6/26 | | Firefly and AST SpaceMobile sign $1.3B+ rocket engine agreement | industry | high |
 | Fri, 11/6/26 | | Elon Musk speaks at Ron Baron Capital Investment Conference | secondary-market | high |
 | Fri, 11/6/26 | | U.S. October nonfarm payrolls release | macro | high |
@@ -14,6 +19,7 @@
 | Tue, 11/10/26 | | SpaceX launches Falcon 9 USSF-627 (R-5) mission | gov-contracts | medium |
 | Tue, 11/10/26 | | BLS releases U.S. October CPI inflation report | macro | high |
 | Tue, 11/10/26 | | Rocket Lab launches second iQPS Electron mission | industry | low |
+| Thu, 11/12/26 | | AST SpaceMobile schedules Blacklift rocket unveiling | industry | medium |
 | Thu, 11/12/26 | | Cleveland Fed President Hammack speaks on economic outlook | macro | medium |
 | Thu, 11/12/26 | | SpaceX targets Starship Flight 15 launch featuring dual tower-catch attempt | launch-schedule | very_high |
 | Fri, 11/13/26 | | ULA schedules Vulcan return to flight carrying 40 Amazon Kuiper satellites | industry | high |
