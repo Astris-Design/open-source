@@ -1,15 +1,17 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
 | Sun, 11/8/26 | | FAA planning window opens for Starship Flight 15 launch license decision | regulatory | very_high |
-| Mon, 11/9/26 | | SpaceX reports Q3 Connectivity revenue of $5.2 billion (up 69% YoY) | starlink | very_high |
-| Mon, 11/9/26 | | Chicago Fed President Goolsbee speaks on monetary policy | macro | medium |
-| Mon, 11/9/26 | | Rocket Lab reports Q3 2026 financial results | industry | medium |
+| Sun, 11/8/26 | | SpaceX reports Q3 revenue of $14.6B and 13.6M Starlink subscribers | starlink | very_high |
+| Mon, 11/9/26 | | Stifel reiterates Buy on SPCX with $190 price target | secondary-market | medium |
+| Mon, 11/9/26 | | Rocket Lab signs over $515M in Neutron launch contracts across 8 missions | industry | high |
+| Mon, 11/9/26 | | Fed Governor Bowman and Chicago Fed President Goolsbee speak on monetary policy | macro | medium |
 | Tue, 11/10/26 | | SpaceX launches Falcon 9 USSF-627 (R-5) mission | gov-contracts | medium |
 | Tue, 11/10/26 | | BLS releases U.S. October CPI inflation report | macro | high |
 | Tue, 11/10/26 | | Rocket Lab launches second iQPS Electron mission | industry | low |
+| Thu, 11/12/26 | | Fed Governor Barr and Cleveland Fed President Hammack speak on policy | macro | medium |
 | Thu, 11/12/26 | | AST SpaceMobile schedules Blacklift rocket unveiling | industry | medium |
-| Thu, 11/12/26 | | Cleveland Fed President Hammack speaks on economic outlook | macro | medium |
 | Fri, 11/13/26 | | SpaceX targets Starship Flight 15 featuring dual tower-catch attempt | launch-schedule | very_high |
+| Fri, 11/13/26 | | SpaceX launches Falcon 9 USSF-317 mission | gov-contracts | medium |
 | Fri, 11/13/26 | | ULA schedules Vulcan return to flight carrying 40 Amazon Kuiper satellites | industry | high |
 | Fri, 11/13/26 | | BLS releases U.S. October PPI inflation report | macro | medium |
 | Sat, 11/14/26 | | SpaceX institutional holders Q3 Form 13F filing deadline | secondary-market | medium |
