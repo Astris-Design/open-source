@@ -4,6 +4,7 @@
 | Tue, 11/10/26 | | Rocket Lab launches second iQPS Electron mission | industry | low |
 | Tue, 11/10/26 | | FCC accepts SpaceX application to acquire 546 Grain 800 MHz spectrum licenses | regulatory | high |
 | Tue, 11/10/26 | | SpaceX begins compute leasing of Colossus 2 AI cluster to Google and Reflection AI | xai | very_high |
+| Tue, 11/10/26 | | Fidelity (FMR LLC) Q3 Form 13F discloses 54.26M share SpaceX cut to 248.3M shares | secondary-market | very_high |
 | Wed, 11/11/26 | | D Orazio & Associates discloses $24.7M (163,740 shares) SPCX buy | secondary-market | high |
 | Wed, 11/11/26 | | xAI completes pre-training for Grok 4.8 frontier model | xai | high |
 | Thu, 11/12/26 | 6:35 PM PDT | SpaceX launches Falcon 9 USSF-627 (R-5) mission | launch-schedule | medium |
