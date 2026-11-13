@@ -1,23 +1,21 @@
 | Date | Time | Event / Milestone | Category | Price Impact |
 | --- | --- | --- | --- | --- |
-| Tue, 11/10/26 | | BLS releases U.S. October CPI inflation report | macro | high |
-| Tue, 11/10/26 | | Rocket Lab launches second iQPS Electron mission | industry | low |
-| Tue, 11/10/26 | | FCC accepts SpaceX application to acquire 546 Grain 800 MHz spectrum licenses | regulatory | high |
-| Tue, 11/10/26 | | SpaceX begins compute leasing of Colossus 2 AI cluster to Google and Reflection AI | xai | very_high |
-| Tue, 11/10/26 | | Fidelity (FMR LLC) Q3 Form 13F discloses 54.26M share SpaceX cut to 248.3M shares | secondary-market | very_high |
-| Wed, 11/11/26 | | D Orazio & Associates discloses $24.7M (163,740 shares) SPCX buy | secondary-market | high |
-| Wed, 11/11/26 | | xAI completes pre-training for Grok 4.8 frontier model | xai | high |
 | Thu, 11/12/26 | 6:35 PM PDT | SpaceX launches Falcon 9 USSF-627 (R-5) mission | launch-schedule | medium |
+| Thu, 11/12/26 | | SpaceX announces $74B Texas and Arizona AI supercomputing campus expansion | xai | very_high |
+| Thu, 11/12/26 | | Reported Tesla-SpaceX merger talks target potential December announcement | secondary-market | very_high |
+| Thu, 11/12/26 | | Elon Musk backs SpaceX Starmind 250kW orbital AI infrastructure project | xai | very_high |
 | Thu, 11/12/26 | | Fed Governor Barr and Cleveland Fed President Hammack speak on policy | macro | medium |
 | Thu, 11/12/26 | | AST SpaceMobile schedules Blacklift rocket unveiling | industry | medium |
+| Thu, 11/12/26 | | SPCX options flow reaches $62M with 68% call concentration | secondary-market | high |
 | Fri, 11/13/26 | 2:45 PM PDT | SpaceX targets Starship Flight 15 featuring dual tower-catch attempt | launch-schedule | very_high |
-| Fri, 11/13/26 | | SpaceX launches Falcon 9 USSF-317 mission | gov-contracts | medium |
 | Fri, 11/13/26 | | ULA schedules Vulcan return to flight carrying 40 Amazon Kuiper satellites | industry | high |
 | Fri, 11/13/26 | | BLS releases U.S. October PPI inflation report | macro | medium |
 | Sat, 11/14/26 | | SpaceX institutional holders Q3 Form 13F filing deadline | secondary-market | medium |
 | Sat, 11/14/26 | | Rocket Lab schedules 100th Electron mission launch target | industry | medium |
 | Tue, 11/17/26 | | FAA holds public scoping meeting in Brownsville on 456-launch Starbase expansion | regulatory | high |
 | Tue, 11/17/26 | | U.S. October retail sales release | macro | medium |
+| Wed, 11/18/26 | | SpaceX launches Falcon 9 USSF-317 mission | gov-contracts | medium |
+| Wed, 11/18/26 | | SpaceX launches Falcon 9 USSF-266 mission | gov-contracts | medium |
 | Wed, 11/18/26 | | Federal Reserve releases October FOMC meeting minutes | macro | high |
 | Thu, 11/19/26 | | FCC votes on spectrum allocation rules impacting Starlink Mobile operations | regulatory | medium |
 | Fri, 11/20/26 | | NHTSA sets compliance query deadline for Tesla Cybercab deployment | regulatory | high |
